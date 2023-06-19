@@ -4,6 +4,7 @@ Tuesdays at 3pm (generally). Zoom link in Slack channel.
 
 | Date | What | Resources |
 | --- | --- | --- |
+| Tue 06.06.23 | Daniel - Learning Logical Pauli Noise in Quantum Error Correction | https://arxiv.org/abs/2209.09267 |
 | Tue 30.05.23 | Teague - Less Bacon, More Threshold | https://scirate.com/arxiv/2305.12046 <br> [Annotated paper](Resources/Less%20Bacon%20More%20Threshold.pdf) |
 | Tue 16.05.23 | PJ - Trellis Decoding | https://arxiv.org/abs/2106.08251 |
 | Tue 09.05.23 | Jonathan - GKP shadows | [Slides](Resources/GKPShadows.pdf) |
@@ -25,8 +26,8 @@ Tuesdays at 3pm (generally). Zoom link in Slack channel.
 
 | Date | What | Resources |
 | --- | --- | --- |
-| Tue 06.06.23 | Daniel - Learning Logical Pauli Noise in Quantum Error Correction | https://arxiv.org/abs/2209.09267 |
 | Tue 04.07.23 | Josias Old | - |
-| The future | Julio - Automorphisms in Floquet Codes | - |
 | Thu 13.07.23 | Mark Webster - Transversal Diagonal Logical Operators for Stabiliser Codes | https://arxiv.org/abs/2303.15615 |
+| The future? | Julio - Automorphisms in Floquet Codes | - |
 | The future? | Jacob Bridgeman - Lifting topological codes: Three-dimensional subsystem codes from two-dimensional anyon models | https://arxiv.org/abs/2305.06365 |
+| The future? | Tyler Ellison - Floquet codes with a twist | https://arxiv.org/abs/2306.08027 |
