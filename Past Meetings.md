@@ -1,3 +1,5 @@
+## Past Meetings
+
 Tuesdays at 3pm (generally). Zoom link in Slack channel.
 
 | Date | What | Resources |
