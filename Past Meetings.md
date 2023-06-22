@@ -1,7 +1,5 @@
 Tuesdays at 3pm (generally). Zoom link in Slack channel.
 
-## Past Meetings
-
 | Date | What | Resources |
 | --- | --- | --- |
 | Tue 06.06.23 | Daniel - Learning Logical Pauli Noise in Quantum Error Correction | https://arxiv.org/abs/2209.09267 |
@@ -20,14 +18,3 @@ Tuesdays at 3pm (generally). Zoom link in Slack channel.
 | Tue 24.01.23 | Joschka - Scalable Quantum Error Correction for Surface Codes using FPGA | https://arxiv.org/abs/2301.08419 |
 | Tue 17.01.23 | Julio - Pauli topological subsystem codes from Abelian anyon theories | http://arxiv.org/abs/2211.03798 |
 | Tue 10.01.23 | Alex Jahn - Holographic QEC | Blackboard talk! |
-
-
-## Upcoming Meetings
-
-| Date | What | Resources |
-| --- | --- | --- |
-| Tue 04.07.23 | Josias Old | - |
-| Thu 13.07.23 | Mark Webster - Transversal Diagonal Logical Operators for Stabiliser Codes | https://arxiv.org/abs/2303.15615 |
-| The future? | Julio - Automorphisms in Floquet Codes | - |
-| The future? | Jacob Bridgeman - Lifting topological codes: Three-dimensional subsystem codes from two-dimensional anyon models | https://arxiv.org/abs/2305.06365 |
-| The future? | Tyler Ellison - Floquet codes with a twist | https://arxiv.org/abs/2306.08027 |
