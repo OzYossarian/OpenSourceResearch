@@ -4,6 +4,7 @@ Tuesdays at 3pm (generally). Zoom link in Slack channel.
 
 | When | Where | What | Resources |
 | --- | --- | --- | --- |
+| Tue 25.07.23, 15:00 | Uni | PJ - Doubled Color Codes | https://arxiv.org/abs/1509.03239 |
 | Mon 17.07.23, 14:00 | Uni | Mark Webster - Transversal Diagonal Logical Operators for Stabiliser Codes | https://arxiv.org/abs/2303.15615 |
 | Tue 18.07.23, 15:00 | Online | Jacob Bridgeman - Lifting topological codes: Three-dimensional subsystem codes from two-dimensional anyon models | https://arxiv.org/abs/2305.06365 |
 | Wed 05.07.23 | - | Josias Old - Generalized Belief Propagation Algorithms for Decoding of Surface Codes | https://arxiv.org/abs/2212.03214 |
