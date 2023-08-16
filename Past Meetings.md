@@ -4,6 +4,7 @@ Tuesdays at 3pm (generally). Zoom link in Slack channel.
 
 | When | Where | What | Resources |
 | --- | --- | --- | --- |
+| Tue 15.08.2023, 15:00 | Online | Tyler Ellison - Floquet codes with a twist | https://arxiv.org/abs/2306.08027 [Recording](https://youtu.be/X4dgOoKp5Qk) |
 | Tue 01.08.23, 15:00 | Online | Pavithran Iyer - Hardness of decoding quantum stabilizer codes | https://arxiv.org/abs/1310.3235 |
 | Tue 25.07.23, 15:00 | Uni | PJ - Doubled Color Codes | https://arxiv.org/abs/1509.03239 [Notes](Resources/PJDoubledColourCodes.pdf) |
 | Mon 17.07.23, 14:00 | Uni | Mark Webster - Transversal Diagonal Logical Operators for Stabiliser Codes | https://arxiv.org/abs/2303.15615 |
