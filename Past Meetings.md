@@ -4,6 +4,8 @@ Tuesdays at 3pm (generally). Zoom link in Slack channel.
 
 | When | Where | What | Resources |
 | --- | --- | --- | --- |
+| Tue 05.09.2023, 15:00 | Uni | Jonathan - Bosonic Codes Tutorial | [Recording](https://youtu.be/pX7DJK6TI24) | 
+| Tue 29.09.2023, 15:00 | Uni | Jonathan - Bosonic Codes Tutorial | [Recording](https://youtu.be/EKEQ3VfR59I) | 
 | Tue 15.08.2023, 15:00 | Online | Tyler Ellison - Floquet codes with a twist | https://arxiv.org/abs/2306.08027 [Recording](https://youtu.be/X4dgOoKp5Qk) |
 | Tue 01.08.23, 15:00 | Online | Pavithran Iyer - Hardness of decoding quantum stabilizer codes | https://arxiv.org/abs/1310.3235 |
 | Tue 25.07.23, 15:00 | Uni | PJ - Doubled Color Codes | https://arxiv.org/abs/1509.03239 [Notes](Resources/PJDoubledColourCodes.pdf) |
