@@ -4,7 +4,7 @@ Tuesdays at 3pm (generally). Zoom link in Slack channel.
 
 | When | Where | What | Resources |
 | --- | --- | --- | --- |
-| **Mon** 18.09.2023, 15:00 | Uni | Robert Booth | - | 
+| **Mon** 18.09.2023, 15:00 | Uni | Robert Booth - Diagrammatic reasoning beyond qubits | - | 
 | Tue 05.09.2023, 15:00 | Uni | Jonathan - Bosonic Codes Tutorial | [Recording](https://youtu.be/pX7DJK6TI24) | 
 | Tue 29.09.2023, 15:00 | Uni | Jonathan - Bosonic Codes Tutorial | [Recording](https://youtu.be/EKEQ3VfR59I) | 
 | Tue 15.08.2023, 15:00 | Online | Tyler Ellison - Floquet codes with a twist | https://arxiv.org/abs/2306.08027 [Recording](https://youtu.be/X4dgOoKp5Qk) |
