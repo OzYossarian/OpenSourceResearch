@@ -4,6 +4,7 @@ Tuesdays at 3pm (generally). Zoom link in Slack channel.
 
 | When | Where | What | Resources |
 | --- | --- | --- | --- |
+| **Wed** 27.09.2023, **14:00** | Online | Oscar Higgott - Constructions and performance of hyperbolic and semi-hyperbolic Floquet codes | https://scirate.com/arxiv/2308.03750 | 
 | **Mon** 18.09.2023, 15:00 | Uni | Robert Booth - Diagrammatic reasoning beyond qubits | - | 
 | Tue 05.09.2023, 15:00 | Uni | Jonathan - Bosonic Codes Tutorial | [Recording](https://youtu.be/pX7DJK6TI24) | 
 | Tue 29.09.2023, 15:00 | Uni | Jonathan - Bosonic Codes Tutorial | [Recording](https://youtu.be/EKEQ3VfR59I) | 
