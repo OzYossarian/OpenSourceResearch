@@ -4,7 +4,6 @@ Tuesdays at 3pm (generally). Zoom link in Slack channel.
 
 | When       | Where | What                                                                                        | Resources                                                            |
 |------------| --- |---------------------------------------------------------------------------------------------|----------------------------------------------------------------------|  
-| 28.11.2023 | Uni | Jonathan - Bosonic QEC                                              | -                       |
 | 05.12.2023 | Uni | Julio - Engineering Floquet codes by rewinding                                              | https://arxiv.org/abs/2307.13668                                     |
 | 12.12.2023 | ? | Frederik Nathan - Dissipative Quantum Error Correction | ? |
 | 19.12.2023 | Uni | Ansgar - Universal Quantum Computation with ideal Clifford gates and noisy ancillas | https://arxiv.org/abs/quant-ph/0403025                               |
