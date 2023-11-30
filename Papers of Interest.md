@@ -10,4 +10,5 @@
 | IBM - High-threshold and low-overhead fault-tolerant quantum memory                                            | https://arxiv.org/abs/2308.07915                                               | Julio            |
 | E. Knill - Error Bases and Quantum Codes | https://arxiv.org/abs/quant-ph/9608049, https://arxiv.org/abs/quant-ph/9608048 | Jonathan |
 | Cleve et al. - How to share a quantum secret | https://arxiv.org/abs/quant-ph/9901025 | Jonathan |
+| Frederik Nathan, Mark S. Rudner - Universal Lindblad equation for open quantum systems | https://arxiv.org/abs/2004.01469 | Jonathan |
 
