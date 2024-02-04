@@ -4,7 +4,6 @@ Tuesdays at 3pm (generally). Zoom link in Slack channel.
 
 | When                                            | Where   | What                                                                                        | Resources                        |
 |-------------------------------------------------|---------|---------------------------------------------------------------------------------------------|----------------------------------|
-| Tue 30.01.2024, 15:00                           | ?       | Christophe Piveteau - Tensor Network Decoding Beyond 2D                                     | http://arxiv.org/abs/2310.10722  |
 | Tue 06.02.2024, 15:00                           | Uni     | Update round                                                                                | -                                |
 | Tue 13.02.2024, 15:00                           | Uni     | Daniel - Family of Quantum Codes with Exotic Transversal Gates                              | https://arxiv.org/abs/2305.07023 |
 | Tue 20.02.2024, 15:00                           | Online? | Ben Criger - QEC experiments with ion traps                                                 | ?                                |
