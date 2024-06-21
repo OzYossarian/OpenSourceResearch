@@ -4,7 +4,6 @@ Tuesdays at 3pm (generally). Zoom link in Slack channel.
 
 | When                  | Where    | What                                                                                          | Resources                                                          |
 |-----------------------|----------|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
-| Tue 18.06.2024, 15:00 | Uni      | Matt Steinberg - Hyperinvariant Holographic Codes                                             | -                                                                  |
 | Tue 25.06.2024, 15:00 | Garden?  | Update round                                                                                  | -                                                                  |
 | Tue 06.08.2024, 15:00 | Benasque | No meeting?                                                                                   |                                                                    |
 | Tue 13.08.2024, 15:00 | Benasque | No meeting?                                                                                   |                                                                    |
