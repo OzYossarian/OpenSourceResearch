@@ -4,7 +4,6 @@ Tuesdays at 3pm (generally). Zoom link in Slack channel.
 
 | When                  | Where    | What                                                                                          | Resources                                                          |
 |-----------------------|----------|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
-| Tue 09.07.2024, 15:00 | Uni      | Romi Lifshitz - Quantum Deep Dreaming: A Novel Approach for Quantum Circuit Design            | https://arxiv.org/abs/2211.04343                                   |
 | Thu 11.07.2024, 15:00 | Uni      | Simon Burton - Genons, Double Covers and Fault-tolerant Clifford Gates                        | https://scirate.com/arxiv/2406.09951                               |
 | Tue 23.07.2024, 15:00 | Uni      | Idris - Master's project                                                                      | -                                                                  |
 | Tue 06.08.2024, 15:00 | Benasque | No meeting?                                                                                   | -                                                                  |
