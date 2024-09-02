@@ -4,7 +4,8 @@ Tuesdays at 3pm (generally). Zoom link in Slack channel.
 
 | When              | Where  | What                                                                                          | Resources                                                          |
 |-------------------|--------|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
-| 20.08.2024, 15:00 | Uni    | Aiko Kyle - Bosonic QEC and Transduction                                                      |                                                                    |
-| 27.08.2024, 15:00 | Uni    | Update round / Benasque debrief                                                               |                                                                    |
+| 03.09.2024, 15:00 | Uni    | Marek Gluza                                                                                   | -                                                                  |
+| 10.09.2024, 15:00 | Uni    | Update round                                                                                  | -                                                                  |
+| 01.10.2024, 15:00 | Online | Tibor Rakovszky - Part 2 - The Physics of (good) LDPC Codes                                   | https://arxiv.org/abs/2310.16032, https://arxiv.org/abs/2402.16831 |
+| 22.10.2024, 15:00 | Online | Shubham P. Jain - High-distance codes with transversal Clifford and T-gates                   | https://arxiv.org/abs/2408.12752                                   | 
 | The future        | Uni    | Teague - Scalable spider nests (...or how to graphically grok transversal non-Clifford gates) | http://arxiv.org/abs/2404.07828                                    |
-| The future        | Online | Tibor Rakovszky - Part 2 - The Physics of (good) LDPC Codes                                   | https://arxiv.org/abs/2310.16032, https://arxiv.org/abs/2402.16831 |
