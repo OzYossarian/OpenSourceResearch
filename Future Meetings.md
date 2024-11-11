@@ -4,7 +4,6 @@ Tuesdays at 3pm (generally). Zoom link in Slack channel.
 
 | When                       | Where  | What                                                                                           | Resources                                                          |
 |----------------------------|--------|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
-| Tue 05.11.2024, 10:00      | Uni    | Update round                                                                                   | -                                                                  |
 | Tue 12.11.2024, **10:00?** | Uni    | Benjamin Rodatz - Floquetifying stabiliser codes with distance-preserving rewrites             | https://scirate.com/arxiv/2410.17240                               |
 | Tue 12.11.2024, **16:00?** | Online | Tibor Rakovszky - Part 2 - The Physics of (good) LDPC Codes                                    | https://arxiv.org/abs/2310.16032, https://arxiv.org/abs/2402.16831 |
 | Tue 19.11.2024, **10:00**  | Uni    | Nouédyn Baspin - ?                                                                             | ?                                                                  |
