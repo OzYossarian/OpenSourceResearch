@@ -29,7 +29,7 @@ $O_L$ spiders
 
 TODO: scalars? Write out the iff relation explicitly.
 
-TODO: $1_L$ spiders? $+_L$ and $-_L$ spiders?
+TODO: $1_L$ spiders?
 
 Holds with colours exchanged.
 
