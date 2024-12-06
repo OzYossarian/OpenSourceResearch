@@ -2,7 +2,7 @@
 
 Tuesdays at 3pm (generally). Zoom link in Slack channel.
 
-| When                  | Where  | What                                                                                        | Resources                        |
-|-----------------------|--------|---------------------------------------------------------------------------------------------|----------------------------------|
-| Tue 03.12.2024, 16:00 | Online | Siyi Yang - Spatially-Coupled QDLPC Codes                                                   | -                                |
-| The future            | Online | Razin Shaikh - The Focked-up ZX Calculus: Picturing Continuous-Variable Quantum Computation | https://arxiv.org/abs/2406.02905 |
+| When               | Where  | What                                                                                        | Resources                        |
+|--------------------|--------|---------------------------------------------------------------------------------------------|----------------------------------|
+| 10.12.2024, 11:00? | Uni    | Update round                                                                                | -                                |
+| The future         | Online | Razin Shaikh - The Focked-up ZX Calculus: Picturing Continuous-Variable Quantum Computation | https://arxiv.org/abs/2406.02905 |
