@@ -2,9 +2,9 @@
 
 Tuesdays at 3pm (generally). Zoom link in Slack channel.
 
-| When                      | Where  | What                                                                                        | Resources                            |
-|---------------------------|--------|---------------------------------------------------------------------------------------------|--------------------------------------|
-| **Wed 22.01.2024, 15:00** | Uni    | Arthur Pesah - Fault-Tolerant Cluster States from Spacetime Codes                           | -                                    |
-| Tue 11.02.2024, 16:00     | Online | Oles Shtanko - Complexity of Local Quantum Circuits under Nonunital Noise                   | https://scirate.com/arxiv/2411.04819 |
-| Tue 25.03.2024, 16:00     | Uni    | Ansgar Burchards - Sphere Packing?                                                          | -                                    |
-| The future                | Online | Razin Shaikh - The Focked-up ZX Calculus: Picturing Continuous-Variable Quantum Computation | https://arxiv.org/abs/2406.02905     |
+| When                  | Where  | What                                                                                        | Resources                            |
+|-----------------------|--------|---------------------------------------------------------------------------------------------|--------------------------------------|
+| Tue 28.01.2025, 16:00 | Uni    | Update round                                                                                | -                                    |
+| Tue 11.02.2025, 16:00 | Online | Oles Shtanko - Complexity of Local Quantum Circuits under Nonunital Noise                   | https://scirate.com/arxiv/2411.04819 |
+| Tue 25.03.2025, 16:00 | Uni    | Ansgar Burchards - Sphere Packing?                                                          | -                                    |
+| The future            | Online | Razin Shaikh - The Focked-up ZX Calculus: Picturing Continuous-Variable Quantum Computation | https://arxiv.org/abs/2406.02905     |
