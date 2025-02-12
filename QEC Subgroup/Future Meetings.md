@@ -1,6 +1,6 @@
 ## Future Meetings
 
-Tuesdays at 3pm (generally). Zoom link in Slack channel.
+Tuesdays at 4pm, unless stated otherwise. Zoom link in Slack channel. If there's nothing in the schedule, we default to a chit-chat meeting!
 
 | When                  | Where  | What                                                                                        | Resources                            |
 |-----------------------|--------|---------------------------------------------------------------------------------------------|--------------------------------------|
