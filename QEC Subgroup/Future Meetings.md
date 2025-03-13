@@ -10,4 +10,4 @@ Tuesdays at 3pm, unless stated otherwise. Zoom link in Slack channel. If there's
 | Mon 28.04.2025, 11:00 | Uni    | Hasan Sayginel, Stergios Koutsioumpas - ?                                                                                               | ?                                |
 | Tue 29.04.2025, ??:00 | Uni    | Benjamin Rodatz - ?                                                                                                                     | ?                                |
 | Tue 13.05.2025, 16:00 | Online | Esha Swaroop - Universal adapters between quantum LDPC codes                                                                            | https://arxiv.org/pdf/2410.03628 |
-| π The future          | Online | Razin Shaikh - The Focked-up ZX Calculus: Picturing Continuous-Variable Quantum Computation                                             | https://arxiv.org/abs/2406.02905 |
+| The future            | Online | Razin Shaikh - The Focked-up ZX Calculus: Picturing Continuous-Variable Quantum Computation                                             | https://arxiv.org/abs/2406.02905 |
